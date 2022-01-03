@@ -1,0 +1,9 @@
+C:\Users\asus\Desktop\udemy kurs\captcha\captcha\bin\Debug\captcha.exe.config
+C:\Users\asus\Desktop\udemy kurs\captcha\captcha\obj\Debug\captcha.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\udemy kurs\captcha\captcha\obj\Debug\captcha.Form1.resources
+C:\Users\asus\Desktop\udemy kurs\captcha\captcha\obj\Debug\captcha.Properties.Resources.resources
+C:\Users\asus\Desktop\udemy kurs\captcha\captcha\obj\Debug\captcha.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\udemy kurs\captcha\captcha\bin\Debug\captcha.exe
+C:\Users\asus\Desktop\udemy kurs\captcha\captcha\bin\Debug\captcha.pdb
+C:\Users\asus\Desktop\udemy kurs\captcha\captcha\obj\Debug\captcha.exe
+C:\Users\asus\Desktop\udemy kurs\captcha\captcha\obj\Debug\captcha.pdb
